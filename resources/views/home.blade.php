@@ -119,7 +119,7 @@
 
 	<div class="main-content row mt30">
 		<div class="col-md-3 recently-completed">
-			<h5 class="mb30">Recently Completed</h5>
+			<h5 class="mb30">Recently Completed Gigs</h5>
 			<div class="row">
 				<div class="col-5">
 					<a href="#"><img src="images/recently-completed.png" alt="" class="img-fluid"></a>
